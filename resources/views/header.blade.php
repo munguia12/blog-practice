@@ -6,6 +6,6 @@
         <a class="navbar-brand" href="#">Mi Blog</a>
     </nav>
     <div class="cta">
-        <a href="{{ route('login') }}" class="btn btn-primary">Log in</a>
+        <a href="#" class="btn btn-primary">Log in</a>
     </div>
 </header>

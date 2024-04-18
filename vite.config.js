@@ -8,4 +8,9 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    css: {
+        preprocessorOptions: {
+          entry: 'resources/css/app.css',
+        },
+      },
 });
